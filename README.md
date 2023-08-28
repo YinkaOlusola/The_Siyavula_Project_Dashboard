@@ -1,6 +1,6 @@
 # The Siyavula Project
 <br>
-<br>
+
 The COVID-19 pandemic altered the world’s routines, wreaking havoc on everything from workplace practices to supply chains
 to education. In education, it affected an estimated 1.6 billion students worldwide (The World Bank). In Africa, research done by
 Human Rights Watch between April and August 2020 found that school closures due to the COVID-19 pandemic compounded
@@ -27,6 +27,7 @@ that is, no- and low-fee schools.
 <br>
 
 ## The Data
+<br>
 
 Siyavula assisted Gauteng Department of Education (GDE) in 2022 with the creation of a baseline assessment instrument in the form of 
 an assignment on the Siyavula platform. The baseline assessment consists of 50 Mathematics curriculum-aligned questions.
@@ -40,6 +41,7 @@ an assignment on the Siyavula platform. The baseline assessment consists of 50 M
 <br>
 
 ## The Purpose and Problem
+<br>
 
 To prevent learning losses from accumulating once children go back to school, countries need to adopt learning recovery
 programs consisting of evidence-based strategies.
@@ -75,10 +77,9 @@ This is an expected divide/difference due to the ease of access to resources (su
 ## Conclusion
 
 The data shows a gap in performance between quantile groups, districts, and baseline items/chapters. The dashboard created will
-enable the department to make the necessary changes and adjustments in order to bridge this gap and give direction as to which
-areas they should focus on for the current and future 8th-grade cohorts.
+enable the Department of Education to make the necessary changes and adjustments in order to bridge this gap and give direction 
+as to which areas they should focus on for the current and future 8th-grade cohorts.
 With the dashboard we have created, the Deputy Director of Curriculum can identify key areas where the learners' performance is
 low, as shown in Figures 1 and 2, and equally identify the possible reasons for this low performance.
-The dashboard we have created shows the distribution of learners and their performance across many variables, such as schools,
-districts, subject sections/topics, subject titles, quintiles, years, and so on. And with this, Siyavula can identify key areas that need
-improvement
+The dashboard shows the distribution of learners and their performance across many variables, such as schools, districts, subject
+sections/topics, subject titles, quintiles, years, and so on. And with this, Siyavula can identify key areas that need improvement.
