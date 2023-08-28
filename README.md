@@ -1,5 +1,4 @@
 # The Siyavula Project
-<br>
 
 The COVID-19 pandemic altered the world’s routines, wreaking havoc on everything from workplace practices to supply chains
 to education. In education, it affected an estimated 1.6 billion students worldwide (The World Bank). In Africa, research done by
@@ -10,9 +9,8 @@ affected (Human Rights Watch, 2020).
 To reach students, many countries in Africa hastily employed some form of remote learning as an emergency response. These
 educational responses evolved as the pandemic did.
 <br>
-<br>
 
-### [Siyavula](https://www.siyavula.com/)
+## [Siyavula](https://www.siyavula.com/)
 <br>
 
 **Siyavula is known as a pioneer developer of high-quality free digital and print Math and Science textbooks for South African
@@ -36,8 +34,6 @@ an assignment on the Siyavula platform. The baseline assessment consists of 50 M
 **It aimed to understand gaps in the syllabus and any behavioral patterns.**
 **An ideal outcome was a Power BI dashboard from a 100GB database hosted on AWS containing the learner’s information to outline learner performance pre- and post-COVID-19.**
 **This dashboard will be used by the GDE to make data-driven decisions about where and how to intervene to better address learning needs.**
-
-<br>
 <br>
 
 ## The Purpose and Problem
@@ -57,11 +53,11 @@ it with that of pre- and post-pandemic cohorts.
 The data was queried from a PostgreSQL database connected to the Amazon S3 bucket and the data was then loaded into a Jupyter notebook to 
 facilitate the running of optimized SQL queries. The resulting dataset was stored in CSV and then loaded into Microsoft Power BI for data 
 visualization through the creation of a dashboard.
-
-<br>
 <br>
 
 ## Dashboard and Findings
+
+
 
 Figure 1, shows that learners’ average baseline performance hovers around 70 percent, with 2022 having the lowest performance.
 It can equally be seen that the number of respondents keeps increasing over the years, which indicates that more users keep
@@ -70,8 +66,6 @@ Performance comparison by quintile, shown in Figure 2, confirms that the highest
 average performance in the baseline assessment, while quintile 1 has the lowest average performance in the baseline assessment.
 This is an expected divide/difference due to the ease of access to resources (such as teachers with good qualifications) by quintile
 5 learners as compared to quintile 1.
-
-<br>
 <br>
 
 ## Conclusion
