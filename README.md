@@ -68,6 +68,7 @@ Grade 8 students participated in the baseline assessment. This can be further br
 the right-hand side shows the distribution of participants across the country.
 
 <br>
+<br>
 
 ![siyavula_project_1](images/siyavula_project_2.PNG)
 
