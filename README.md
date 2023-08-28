@@ -56,6 +56,9 @@ visualization through the creation of a dashboard.
 
 ## Dashboard and Findings
 
+
+![siyavula_project_1](images/siyavula_project_1.PNG)
+
 Figure 1, shows that learners’ average baseline performance hovers around 70 percent, with 2022 having the lowest performance.
 It can equally be seen that the number of respondents keeps increasing over the years, which indicates that more users keep
 interacting with the online learning platform.
