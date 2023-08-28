@@ -63,9 +63,9 @@ analysis was steered in that direction.
 
 <br>
 
-Figure 1 above shows the Home and important statistics of the data. In the baseline assessment, 25% of schools in Gauteng were assessed, and 8% of
+Figure 1 above shows the Home Page and important statistics of the data. In the baseline assessment, 25% of schools in Gauteng were assessed, and 8% of
 Grade 8 students participated in the baseline assessment. This can be further broken down into raw figures, as shown in the figure above. The chart on
- the right-hand side shows the distribution of participants across the country.
+the right-hand side shows the distribution of participants across the country.
 
 <br>
 
