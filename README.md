@@ -70,20 +70,22 @@ Grade 8 students participated in the baseline assessment. The chart on the right
 <br>
 
 ![siyavula_project_1](images/siyavula_project_2.PNG)
-:-: Figure 2. Respondents and Performance by Year and Quarter:-:
+:Figure 2. Respondents and Performance by Year and Quarter:
 
 <br>
 
-Figure 2 shows the number of respondents and their corresponding performance by year and quarter. The baseline assessment, on which this project was based,
-was administered in 2022, hence 2022 having the highest number of respondents. This number of respondents was compared to that of previous years. The average 
-performance across quarters and years shows that students get 70% of the questions correctly on average with a notable 19% drop in performance in 2022, 
-as can be seen on the line chart in the figure above.
+Figure 2 shows the number of respondents and their corresponding performance by Year and Quarter. The baseline assessment, on which this project was based,
+was administered in 2022, hence 2022 having the highest number of respondents. This number of respondents was compared to those of previous years. The figure 
+shows that the learners' average performance in the baseline assessment hovers around 70%, which shows that students get 70% of the questions correctly on 
+average, with a notable 19% drop in performance in 2022, as can be seen on the line chart.
+
+It can equally be seen that the number of respondents keeps increasing over the years, which indicates that more users keep interacting with the online learning platform.
 
 <br>
 <br>
 
 ![siyavula_project_1](images/siyavula_project_3.PNG)
-:-: Figure 3: Performance by Quintile.
+                                                      Figure 3: Performance by Quintile.
 
 <br>
 
@@ -109,9 +111,7 @@ which corroborates the lack of equitable access to resources.
 
 <br>
 
-Figure 1, shows that learners’ average baseline performance hovers around 70 percent, with 2022 having the lowest performance.
-It can equally be seen that the number of respondents keeps increasing over the years, which indicates that more users keep
-interacting with the online learning platform.
+
 Performance comparison by quintile, shown in Figure 2, confirms that the highest economic class, quintile 5, has the highest
 average performance in the baseline assessment, while quintile 1 has the lowest average performance in the baseline assessment.
 This is an expected divide/difference due to the ease of access to resources (such as teachers with good qualifications) by quintile
