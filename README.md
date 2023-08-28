@@ -1,8 +1,8 @@
 # The Siyavula Project
 
 The COVID-19 pandemic altered the world’s routines, wreaking havoc on everything from workplace practices to supply chains
-to education. In education, it affected an estimated 1.6 billion students worldwide (The World Bank). In Africa, research done by
-Human Rights Watch between April and August 2020 found that school closures due to the COVID-19 pandemic compounded
+to education. In education, it affected an estimated 1.6 billion students worldwide (The World Bank). In Africa, research done 
+between April and August 2020, Human Rights Watch found that school closures due to the COVID-19 pandemic compounded
 previously existing inequalities, leaving children who were already at risk of being excluded from quality education to be most
 affected (Human Rights Watch, 2020).
 <br>
@@ -64,21 +64,34 @@ analysis was steered in that direction.
 <br>
 
 Figure 1 above shows the Home Page and important statistics of the data. In the baseline assessment, 25% of schools in Gauteng were assessed, and 8% of
-Grade 8 students participated in the baseline assessment. This can be further broken down into raw figures, as shown in the figure above. The chart on
-the right-hand side shows the distribution of participants across the country.
+Grade 8 students participated in the baseline assessment. The chart on the right-hand side shows the distribution of participants across the country.
 
 <br>
 <br>
 
 ![siyavula_project_1](images/siyavula_project_2.PNG)
-
-:-: Figure 2
+:-: Figure 2. Respondents and Performance by Year and Quarter:-:
 
 <br>
 
-![siyavula_project_1](images/siyavula_project_3.PNG)
-:-: Figure 3
+Figure 2 shows the number of respondents and their corresponding performance by year and quarter. The baseline assessment, on which this project was based,
+was administered in 2022, hence 2022 having the highest number of respondents. This number of respondents was compared to that of previous years. The average 
+performance across quarters and years shows that students get 70% of the questions correctly on average with a notable 19% drop in performance in 2022, 
+as can be seen on the line chart in the figure above.
 
+<br>
+<br>
+
+![siyavula_project_1](images/siyavula_project_3.PNG)
+:-: Figure 3: Performance by Quintile.
+
+<br>
+
+The Quintile represents the economic class of a respondent, with Quintile 1 being the lowest economic class and Quintile 5 being the highest.
+From the chart above, it can be seen that the highest economic class, Quintile 5, has the highest average performance in the baseline assessment 
+which corroborates the lack of equitable access to resources.
+
+<br>
 <br>
 
 ![siyavula_project_1](images/siyavula_project_4.PNG)
