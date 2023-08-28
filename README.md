@@ -50,7 +50,8 @@ it with that of pre- and post-pandemic cohorts.
 
 The data was queried from a PostgreSQL database connected to the Amazon S3 bucket and the data was then loaded into a Jupyter notebook to 
 facilitate the running of optimized SQL queries. The resulting dataset was stored in CSV and then loaded into Microsoft Power BI for data 
-visualization through the creation of a dashboard.
+visualization through the creation of a dashboard. As the objective of the project focused on Gauteng and Grade 8 students, most of the 
+analysis was steered in that direction.
 <br>
 <br>
 
@@ -58,7 +59,13 @@ visualization through the creation of a dashboard.
 
 
 ![siyavula_project_1](images/siyavula_project_1.PNG)
-:Figure 1. Dashboard Home Page showing an overview of the data analysis.:
+:-: Figure 1. Dashboard Home Page showing an overview of the data analysis.
+
+<br>
+
+Figure 1 above shows the Home and important statistics of the data. In the baseline assessment, 25% of schools in Gauteng were assessed, and 8% of
+Grade 8 students participated in the baseline assessment. This can be further broken down into raw figures, as shown in the figure above. The chart on
+ the right-hand side shows the distribution of participants across the country.
 
 <br>
 
