@@ -58,6 +58,8 @@ visualization through the creation of a dashboard.
 
 
 ![siyavula_project_1](images/siyavula_project_1.PNG)
+
+<br>
 Figure 1. Dashboard Home Page showing an overview of the data analysis.
 <br>
 
