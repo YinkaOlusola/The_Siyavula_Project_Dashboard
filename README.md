@@ -58,15 +58,25 @@ visualization through the creation of a dashboard.
 
 
 ![siyavula_project_1](images/siyavula_project_1.PNG)
+
 <br>
+
 ![siyavula_project_1](images/siyavula_project_2.PNG)
+
 <br>
+
 ![siyavula_project_1](images/siyavula_project_3.PNG)
+
 <br>
+
 ![siyavula_project_1](images/siyavula_project_4.PNG)
+
 <br>
+
 ![siyavula_project_1](images/siyavula_project_5.PNG)
+
 <br>
+
 ![siyavula_project_1](images/siyavula_project_6.PNG)
 
 Figure 1, shows that learners’ average baseline performance hovers around 70 percent, with 2022 having the lowest performance.
