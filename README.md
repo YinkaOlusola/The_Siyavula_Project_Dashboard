@@ -69,7 +69,7 @@ Grade 8 students participated in the baseline assessment. The chart on the right
 <br>
 <br>
 
-![siyavula_project_1](images/siyavula_project_2.PNG)
+![siyavula_project_2](images/siyavula_project_2.PNG)
 Figure 2. Respondents and Performance by Year and Quarter
 
 <br>
@@ -84,7 +84,7 @@ It can equally be seen that the number of respondents has kept increasing over t
 <br>
 <br>
 
-![siyavula_project_1](images/siyavula_project_3.PNG)
+![siyavula_project_3](images/siyavula_project_3.PNG)
 Figure 3: Performance by Quintile
 
 <br>
@@ -99,7 +99,7 @@ This is an expected divide/difference due to the ease of access to resources (su
 <br>
 <br>
 
-![siyavula_project_1](images/siyavula_project_4.PNG)
+![siyavula_project_4](images/siyavula_project_4.PNG)
 Figure 4: Performance by District and Quintile
 
 <br>
@@ -111,7 +111,7 @@ and to make informed decisions on the need for intervention
 <br>
 <br>
 
-![siyavula_project_1](images/siyavula_project_5.PNG)
+![siyavula_project_5](images/siyavula_project_5.PNG)
 Figure 5: Performance based on Topics and Sections
 
 <br>
@@ -123,7 +123,7 @@ prerequisite for the topics, introducing those topics to students either earlier
 <br>
 <br>
 
-![siyavula_project_1](images/siyavula_project_6.PNG)
+![siyavula_project_6](images/siyavula_project_6.PNG)
 Figure 6: Performance by Chapters
 
 <br>
@@ -135,7 +135,7 @@ measures.
 <br>
 <br>
 
-![siyavula_project_1](siyavula-video-demo.mp4)
+![siyavula-video-demo](siyavula-video-demo.mp4)
 A video demonstration of the Power BI Dashboard
 
 <br>
