@@ -136,11 +136,9 @@ measures.
 <br>
 
 [Dashboard Video Demonstration](https://youtu.be/KFYwLKjffAM)
-A video demonstration of the Power BI Dashboard
 
 <br>
 <br>
-
 
 
 ## Conclusion
