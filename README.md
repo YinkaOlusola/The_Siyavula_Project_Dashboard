@@ -133,13 +133,10 @@ compared with other chapters. Learners equally have the highest average drop in 
 measures.
 
 <br>
-<br>
 
 [Dashboard Video Demonstration](https://youtu.be/KFYwLKjffAM)
 
 <br>
-<br>
-
 
 ## Conclusion
 
