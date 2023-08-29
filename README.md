@@ -79,13 +79,13 @@ was administered in 2022, hence 2022 having the highest number of respondents. T
 shows that the learners' average performance in the baseline assessment hovers around 70%, which implies students get 70% of the questions correctly on 
 average, with a notable 19% drop in performance in 2022, as can be seen on the line chart.
 
-It can equally be seen that the number of respondents keeps increasing over the years, indicating an increasing number of users interactions with the online learning platform.
+It can equally be seen that the number of respondents keeps increasing over the years, indicating an increasing number of users interacting with the online learning platform.
 
 <br>
 <br>
 
 ![siyavula_project_1](images/siyavula_project_3.PNG)
-                                                      <p style="text-align: center;">Figure 3: Performance by Quintile.</p>
+<div style="text-align: center;"> Figure 3: Performance by Quintile </div>
 
 <br>
 
@@ -100,24 +100,48 @@ This is an expected divide/difference due to the ease of access to resources (su
 <br>
 
 ![siyavula_project_1](images/siyavula_project_4.PNG)
-:-: Figure 4
+Figure 4: Performance by District and Quintile
 
+<br>
+
+The chart above shows the performance across Districts and Quintiles. It can be seen that Gauteng East has the highest drop in performance 
+compared to the previous years. This can be used by Districts Heads to gain insights on how their districts performed against other districts 
+and to make informed decisions on the need for intervention
+
+<br>
 <br>
 
 ![siyavula_project_1](images/siyavula_project_5.PNG)
-:-: Figure 5
+Figure 5: Performance based on Topics and Sections
 
+<br>
+
+This chart shows learners' performance on various topics and sections of the subject, Mathematics, used in the baseline assessment. This will help 
+stakeholders identify areas that need interventions, either in the form of revising the curriculum, investing more in the instructions, creating a 
+prerequisite for the topics, introducing those topics to students either earlier or later.
+
+<br>
 <br>
 
 ![siyavula_project_1](images/siyavula_project_6.PNG)
-:-: Figure 6
+Figure 6: Performance by Chapters
 
 <br>
 
-
+Students have the lowest average performance in Surface Area and Volume of 3D objects as a Chapter, both in the Baseline assessment and other assignments when
+compared with other chapters. Learners equally have the highest average drop in performance in this chapter, which is 72.43%, and this calls for urgent remedial
+measures.
 
 <br>
 <br>
+
+![siyavula_project_1](images/siyavula_project_6.PNG)
+A video demonstration of the Power BI Dashboard
+
+<br>
+<br>
+
+
 
 ## Conclusion
 
