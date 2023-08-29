@@ -59,7 +59,7 @@ analysis was steered in that direction.
 
 
 ![siyavula_project_1](images/siyavula_project_1.PNG)
-:-: Figure 1. Dashboard Home Page showing an overview of the data analysis.
+Figure 1. Dashboard Home Page showing an overview of the data analysis.
 
 <br>
 
@@ -70,7 +70,7 @@ Grade 8 students participated in the baseline assessment. The chart on the right
 <br>
 
 ![siyavula_project_1](images/siyavula_project_2.PNG)
-:Figure 2. Respondents and Performance by Year and Quarter:
+Figure 2. Respondents and Performance by Year and Quarter
 
 <br>
 
@@ -79,13 +79,13 @@ was administered in 2022, hence 2022 having the highest number of respondents. T
 shows that the learners' average performance in the baseline assessment hovers around 70%, which implies students get 70% of the questions correctly on 
 average, with a notable 19% drop in performance in 2022, as can be seen on the line chart.
 
-It can equally be seen that the number of respondents keeps increasing over the years, indicating an increasing number of users interacting with the online learning platform.
+It can equally be seen that the number of respondents has kept increasing over the years, indicating an increasing number of users interacting with the online learning platform.
 
 <br>
 <br>
 
 ![siyavula_project_1](images/siyavula_project_3.PNG)
-<div style="text-align: center;"> Figure 3: Performance by Quintile </div>
+Figure 3: Performance by Quintile
 
 <br>
 
