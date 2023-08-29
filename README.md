@@ -135,7 +135,6 @@ measures.
 <br>
 
 [Dashboard Video Demonstration](https://youtu.be/KFYwLKjffAM)
-
 <br>
 
 ## Conclusion
