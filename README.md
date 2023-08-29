@@ -135,7 +135,7 @@ measures.
 <br>
 <br>
 
-![siyavula-video-demo](siyavula-video-demo.mp4)
+![Dashboard Video Demonstration](https://youtu.be/KFYwLKjffAM)
 A video demonstration of the Power BI Dashboard
 
 <br>
